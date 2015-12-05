@@ -53,3 +53,11 @@ Let's defines some parts
     * Central Console
     * Audio/Video Components
  
+
+Build Specialized cars using "Abtract Factory" to create a family of products (Powertrain, Interior, Body) for each car.
+
+Accessorize each car by dynamically adding operations using "Decorator"
+
+Define steps to Drive a car using "Template Method" but let subclasses define the implementation of these steps.
+
+To rent the car, we need to verify the credability of the customer. Verify customer based on the state that he wants to drive. Use "Strategy pattern" to dynamically decide the implementation.
