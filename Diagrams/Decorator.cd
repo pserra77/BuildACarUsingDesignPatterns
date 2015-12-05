@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="CustomizedCar (Car car)">
+    <Position X="10.833" Y="3.553" Height="0.396" Width="1.7" />
+  </Comment>
+  <Class Name="LetsBuildACar.Car" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAABCBAAAACCAAAAAAAAAAAAAAoAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.Ambassador" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAQAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.Ferrari" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.CustomizedCar">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <Members>
+      <Field Name="_accessories" Hidden="true" />
+      <Field Name="_thisCar" Hidden="true" />
+      <Method Name="CanIDriveThisCar" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAA=</HashCode>
+      <FileName>CustomizedCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.CustomizeMyCar">
+    <Position X="12.25" Y="1.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarCustomization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.Accessory" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accessory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.TurboCharger" Collapsed="true">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accessory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.Spoiler" Collapsed="true">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Accessory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.Fan" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accessory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

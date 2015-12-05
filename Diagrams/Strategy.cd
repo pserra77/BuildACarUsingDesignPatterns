@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Comment CommentText="Inherits">
+    <Position X="13" Y="1.646" Height="0.375" Width="1.294" />
+  </Comment>
+  <Comment CommentText="                          Uses ---&gt;">
+    <Position X="7.958" Y="1.188" Height="0.385" Width="2.346" />
+  </Comment>
+  <Class Name="LetsBuildACar.RentACar">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <Members>
+      <Method Name="RentACar" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RentACar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.RentPermit">
+    <Position X="3" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAEA=</HashCode>
+      <FileName>RentACar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.RentACarClient">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RentACar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LetsBuildACar.TelanganaCarVerification" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVerifyDriverCredability.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LetsBuildACar.AllIndiaCarVerification" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVerifyDriverCredability.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.55" />
+  </Class>
+  <Interface Name="LetsBuildACar.IVerifyDriverCredability">
+    <Position X="10.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVerifyDriverCredability.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
